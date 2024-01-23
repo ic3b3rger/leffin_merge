@@ -67,7 +67,7 @@
     justify-content: center
     align-items: center
     z-index: 1000
-    background-color: #222224
+    background-color: #222222
 
     .loader-wrapper
         position: relative
@@ -85,7 +85,7 @@
             background-color: rgba(255, 255, 255, 0.1)
 
         .loader 
-            background-color: white
+            background-color: #da1f26
             transition: width 0.8s ease
 
         .outro
